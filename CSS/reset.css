@@ -1,0 +1,20 @@
+
+html, body, div, span, applet, object, 
+iframe, footer, header,nav,ul
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article,footer, header,nav{
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ul {
+	list-style: none;
+}
